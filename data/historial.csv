@@ -1,0 +1,48 @@
+﻿registro,historial,queja,detalle,usuario,dummy,area
+28/04/2023 19:48,Se inicia Historial,S000000038,test2,P,0,Facturación
+10/05/2023 20:04,test back office,A000039,profesionales involucrados de la queja,U,1,Facturación
+08/05/2023 19:14,test turnar,Q000000042,test 2,P,0,Dependencia Facturación
+28/04/2023 17:34,Prueba actualizacion Seguimiento api Node,Q000031,test leo,U,0,Facturación
+27/04/2023 23:09,Se inicia Historial,Q000000025,test,P,0,Facturación
+09/05/2023 12:08,Rechazado,S000000038,test2,P,0,Facturación
+03/05/2023 22:36,Se inicia Historial,Q000000040,probando subir evidencias en queja,P,0,Médica
+09/05/2023 22:00,test seguimiento 41,Q000000041,test,P,0,Facturación
+09/05/2023 12:06,Rechazado,S000000038,test2,P,0,Facturación
+28/04/2023 06:05,Se inicia Historial,Q000000029,test,P,0,Médica
+28/04/2023 03:39,Se inicia Historial,Q000000027,test,P,0,Facturación
+28/04/2023 17:33,Prueba actualizacion Seguimiento api Node,Q000031,test leo,U,0,Facturación
+28/04/2023 19:29,Se inicia Historial,A000000034,TEST SIS,P,0,Facturación
+03/05/2023 22:41,Se inicia Historial,Q000000042,test 2,P,0,Facturación
+29/04/2023 00:15,testt,Q000030,test leo,U,0,Facturación
+09/05/2023 12:12,Rechazado,A000039,profesionales involucrados de la queja,U,1,Back Office
+28/04/2023 06:48,Se inicia Historial,Q000031,test leo,U,0,Facturación
+04/05/2023 17:36,Prueba Reasignacion Area Postman,Q000000029,test,P,0,Facturación
+28/04/2023 19:33,Se inicia Historial,S000035,TEST,U,1,Facturación
+27/04/2023 23:01,Se inicia Historial,Q000000024,PRUEBA DE PROFESIONALES A 300 CARACTERES,P,0,Facturación
+03/05/2023 22:39,Se inicia Historial,Q000000041,test,P,0,Facturación
+28/04/2023 19:46,Se inicia Historial,S000037,prueba de nueva queja,U,1,Facturación
+10/05/2023 20:03,test turn back office,A000039,profesionales involucrados de la queja,U,1,Facturación
+08/05/2023 11:25,Prueba Reasignacion Area Postman,Q000000029,test,P,0,Facturación
+08/05/2023 19:16,test,Q000000042,test 2,P,0,Dependencia Facturación
+29/04/2023 01:34,test,S000035,TEST,U,1,Facturación
+26/04/2023 02:44,Se inicia Historial,Q000000023,PRUEBA DE PROFESIONALES A 300 CARACTERES,P,0,Facturación
+28/04/2023 17:37,Prueba actualizacion Seguimiento api Node,Q000031,test leo,U,0,Facturación
+28/04/2023 04:01,Se inicia Historial,Q000028,tEST LEO,U,0,Facturación
+09/05/2023 12:06,Rechazado,A000039,profesionales involucrados de la queja,U,1,Facturación
+09/05/2023 11:48,test turnar 2,Q000000041,test,P,0,Dependencia Facturación
+04/05/2023 11:02,Reasignación de Area,Q000031,test leo,U,0,Back Office
+09/05/2023 11:44,test turnar a dependencia,Q000000041,test,P,0,Dependencia Facturación
+29/04/2023 02:49,seguimiento de queja,A000039,profesionales involucrados de la queja,U,1,Facturación
+29/04/2023 00:16,test,Q000030,test leo,U,0,Facturación
+28/04/2023 03:36,Se inicia Historial,Q000000026,test,P,0,Facturación
+28/04/2023 20:48,Se inicia Historial,A000039,profesionales involucrados de la queja,U,1,Facturación
+04/05/2023 17:53,Prueba Reasignacion Area Postman,Q000000029,test,P,0,Facturación
+28/04/2023 07:14,Se inicia Historial,Q000032,test,U,0,Facturación
+28/04/2023 06:40,Se inicia Historial,Q000030,test leo,U,0,Facturación
+08/05/2023 10:00,Rechazado,Q000000042,test 2,P,0,Facturación
+08/05/2023 19:25,test,Q000000042,test 2,P,0,Facturación
+29/04/2023 02:50,completada,A000039,profesionales involucrados de la queja,U,1,Facturación
+28/04/2023 19:40,Se inicia Historial,Q000036,Queja sobre paciente,U,1,Facturación
+09/05/2023 21:51,test seguimineto desde dependencia,Q000000042,test 2,P,0,Dependencia Facturación
+28/04/2023 16:39,Se inicia Historial,Q000000033,PRUEBA DE PROFESIONALES A 300 CARACTERES,P,0,Facturación
+04/05/2023 17:38,Prueba Reasignacion Area Postman,Q000000029,test,P,0,Facturación
